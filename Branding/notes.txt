@@ -1,0 +1,4 @@
+#e96b56 -> #fbaf16
+#ee8b7a, #ec7f6d -> #fdd17a (lighter)
+#e6573f -> #a87103 (darker)
+
